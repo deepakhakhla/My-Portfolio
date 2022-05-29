@@ -1,0 +1,35 @@
+body{font-family: sans-serif;
+     max-width: 60%;
+     margin: auto;
+     color: rgb(107, 96, 96);
+     background-color: rgba(220, 226, 218, 0.623);}
+
+.header{display: flex;align-items: center;}
+
+.FOTO{width: 100px;height: 100px;object-fit: cover;border-radius: 90%;margin-top: 20px;}
+
+.main{flex:1;margin-left: 20px;}
+
+.name{color: gray;}
+
+.lastname{color: coral;}
+
+.college{word-spacing: 2px;}
+
+.data{color: coral;}
+
+.hrline{border: 1px solid coral ;}
+
+.table-intro{font-size: 20px;  color: coral;} 
+
+.intro{min-width: 200PX;display: block;}
+
+.school{font-size:20px; color: rgb(0, 0, 0);line-height: 28px;}
+
+.edu{font-size:13px; color: rgb(83, 82, 82); font-style: italic;}
+
+.info{margin-top: 22px; color: black;}
+
+.marginflix{margin-top: 20px;}
+
+.y-school{margin-top: 20px;}
